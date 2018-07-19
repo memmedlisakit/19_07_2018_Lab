@@ -1,0 +1,10 @@
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\19_07_2018_Lab\19_07_2018_Lab\bin\Debug\19_07_2018_Lab.exe.config
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\19_07_2018_Lab\19_07_2018_Lab\bin\Debug\19_07_2018_Lab.exe
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\19_07_2018_Lab\19_07_2018_Lab\bin\Debug\19_07_2018_Lab.pdb
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\19_07_2018_Lab\19_07_2018_Lab\obj\Debug\19_07_2018_Lab.csprojResolveAssemblyReference.cache
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\19_07_2018_Lab\19_07_2018_Lab\obj\Debug\_19_07_2018_Lab.Form1.resources
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\19_07_2018_Lab\19_07_2018_Lab\obj\Debug\_19_07_2018_Lab.Properties.Resources.resources
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\19_07_2018_Lab\19_07_2018_Lab\obj\Debug\19_07_2018_Lab.csproj.GenerateResource.Cache
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\19_07_2018_Lab\19_07_2018_Lab\obj\Debug\19_07_2018_Lab.csproj.CoreCompileInputs.cache
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\19_07_2018_Lab\19_07_2018_Lab\obj\Debug\19_07_2018_Lab.exe
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\19_07_2018_Lab\19_07_2018_Lab\obj\Debug\19_07_2018_Lab.pdb
